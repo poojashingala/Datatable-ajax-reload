@@ -1,2 +1,2 @@
 # Datatable-ajax-reload
-This project contains a simple demo of loading DataTable via ajax and refreshing the table on button click.
+This project contains a simple demo that loads DataTable via ajax and refreshes the table on button click.
