@@ -5,6 +5,18 @@
     <link rel="stylesheet" type="text/css" href="/Ajax-Datatable-Demo/assets/css/jquery.dataTables.min.css">
     <script type="text/javascript" src="/Ajax-Datatable-Demo/assets/js/jquery-1.12.4.js"></script>
     <script type="text/javascript" src="/Ajax-Datatable-Demo/assets/js/jquery.dataTables.min.js"></script>
+    <style type="text/css">
+        .click{
+            margin-bottom: 20px;
+            color: green;
+            padding: 10px;
+            border-radius: 3;
+            border-radius: 5px;
+            font-size: 15px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+    </style>
 </head>
 <body>
     <button class="click">Refresh Table</button>
